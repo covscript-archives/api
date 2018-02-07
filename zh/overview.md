@@ -2,7 +2,9 @@
 
 ### 发行说明
 [CovScript](https://github.com/covscript/covscript/releases/latest)
+
 [CovScript GUI](https://github.com/covscript/covscript-gui/releases/latest)
+
 [CovScript Installer](https://github.com/covscript/covscript-installer/releases/latest)
 
 ### 下载链接
