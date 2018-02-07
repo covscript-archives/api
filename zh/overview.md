@@ -23,3 +23,14 @@
 #### 文档和示例程序
 * [CovScript 文档 (等我搞清楚 GitBook 怎么生成 pdf 就有了)]()
 * [CovScript 示例程序](https://gitee.com/mikecovlee/covscript-source/raw/master/cs_examples.zip)
+
+### 特点
+* 开放源代码
+    * **Covariant Script** 是自由软件，完全免费并遵循`AGPL v3`开源协议开放源代码。
+    * 目前 **Covariant Script** 项目托管在全球最大的代码托管平台`Github`上。
+    * **CovScript** [Github 主页](https://github.com/covscript/covscript)
+
+* 跨平台
+    * ** Covariant Script** 支持 `Microsoft Windows`, `Linux`, `macOS`, `Android` 等主流平台。您的程序**无须更改任何代码**即可在主流平台上流畅运行。
+
+高性能
