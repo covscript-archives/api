@@ -46,3 +46,9 @@
     * ![Grammar Overview](/res/grammar-overview.jpg)
     * ![Streams Overview](/res/streams-overview.jpg)
 
+
+### 功能完善
+![Feature Overview](/res/feature-overview.png)
+**Covariant Script** 支持流，文件读写，随机数，计时器，哈希值生成，数组，链表，迭代其，散列表以及简单GUI。
+
+有助于您以更低的代价开发出强大的程序。
