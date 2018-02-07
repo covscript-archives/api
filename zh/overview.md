@@ -7,6 +7,7 @@
 
 ### 下载链接
 请确保您的操作系统为 **Windows XP** 或 **更高版本**
+
 运行 CovScript GUI 和 CovScript Installer 需要**安装运行环境**
 
 * [运行环境(Microsoft .Net Framework 4.0)](https://gitee.com/mikecovlee/covscript-source/raw/master/dotNetFx40_Full_x86_x64.exe)
