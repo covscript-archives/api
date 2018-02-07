@@ -52,3 +52,14 @@
 **Covariant Script** 支持流，文件读写，随机数，计时器，哈希值生成，数组，链表，迭代其，散列表以及简单GUI。
 
 有助于您以更低的代价开发出强大的程序。
+
+
+### 版权
+**Covariant Script** 编程语言的作者是 **Michael Lee(mikecovlee@github.com,mikecovlee@163.com)**.
+
+**版权所有 (C) 2018 Michael Lee(李登淳)**
+
+
+### 感谢
+* 测试：史为成，[Kiva](https://github.com/imkiva)
+* IntelliJ IDE 插件：[Tesla Ice Zhang](https://github.com/ice1000)
