@@ -29,11 +29,11 @@ streams.of({1, 2, 3}.to_list())
 2
 3
 ```
-* 后文中的 `predicate`, `mapper`, `action` 一类的参数跟本例子中的用法一样，后文不在详细举例
+* 后文中的 `predicate`, `mapper`, `action` 一类的参数跟本例子中的用法一样，后文不在详细举例
 
 
-#### cs::streams peek(action)
-* 对流中每一个元素执行一次 `action`，与 `for_each` 功能相同，但 `peek` 不会终止流
+#### cs::streams peek(action)
+* 对流中每一个元素执行一次 `action`，与 `for_each` 功能相同，但 `peek` 不会终止流
 
 
 #### cs::number count()
@@ -130,11 +130,11 @@ streams.of({1, 2, 3, 4, 5}.to_list())
 
 
 #### cs::boolean all_match(predicate)
-* 只有流中所有元素都符合 `predicate`，才返回`真`
+* 只有流中所有元素都符合 `predicate`，才返回`真`
 
 
 #### cs::boolean none_match(predicate)
-* 只有流中所有元素都不符合 `predicate`，才返回`真`
+* 只有流中所有元素都不符合 `predicate`，才返回`真`
 
 
 #### cs::var find_any()
@@ -146,4 +146,4 @@ streams.of({1, 2, 3, 4, 5}.to_list())
 
 
 #### cs::list to_list()
-* 将当前流中可操作元素作为一个 [cs::list](api-list.md) 返回
+* 将当前流中可操作元素作为一个 [cs::list](api-list.md) 返回
