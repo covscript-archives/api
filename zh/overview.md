@@ -33,4 +33,5 @@
 * 跨平台
     * ** Covariant Script** 支持 `Microsoft Windows`, `Linux`, `macOS`, `Android` 等主流平台。您的程序**无须更改任何代码**即可在主流平台上流畅运行。
 
-高性能
+* 高性能
+    ![Performance Comparation](/res/performance_cmp.png)
