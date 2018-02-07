@@ -13,7 +13,7 @@
 * [运算符和表达式](grammar-expression.md)
 * [控制流](grammar-control-flow.md)
 * [函数和 Lambda](grammar-function.md)
-* [命名空间](grammar-namespace.md)
+* [名称空间](grammar-namespace.md)
 * [异常处理](grammar-exception.md)
 
 ## API 文档
