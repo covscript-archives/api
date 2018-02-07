@@ -1,7 +1,6 @@
 # Summary
 
-## 文档
-
+## 目录
 * [前言](README.md)
 * [概述](overview.md)
 
@@ -17,20 +16,14 @@
 * [命名空间](grammar-namespace.md)
 * [异常处理](grammar-exception.md)
 
-## 数据类型
-* [number](type-number.md)
-* [boolean](type-boolean.md)
-* [char](type-char.md)
-* [string](type-string.md)
-* [pointer](type-pointer.md)
-* [array](type-array.md)
-* [list](type-list.md)
-* [pair](type-pair.md)
-* [hash_map](type-hashmap.md)
-
-
-
-
-
-
-
+## API 文档
+* [number](api-number.md)
+* [boolean](api-boolean.md)
+* [char](api-char.md)
+* [string](api-string.md)
+* [pointer](api-pointer.md)
+* [array](api-array.md)
+* [list](api-list.md)
+* [pair](api-pair.md)
+* [hash_map](api-hashmap.md)
+* [streams](api-streams.md)
