@@ -36,4 +36,6 @@
 
 
 * 高性能
-    ![Performance Comparation](/res/performance_cmp.png)
+    * ![Performance Comparation](/res/performance_cmp.png)
+    * **Covariant Script** 相较于其前身 `Covariant Basic` 性能提升幅度高达 **160%**，能达到主流编程语言 `Python3` 性能的 **60%**。
+
