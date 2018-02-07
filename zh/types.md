@@ -2,20 +2,6 @@
 
 **类型信息表和运算符表请参照附录**
 
-## number（数值）类型
-
-number的字面量由0~9十个数和小数点组成，如12，3.14等
-
-number表示的数仅限于全体实数
-
-number的初始值为0
-
-## boolean（逻辑）类型
-
-boolean的字面量只有两个，分别是true（真）和false（假）
-
-boolean的初始值为true（真）
-
 ## pointer（指针）类型
 
 pointer没有字面量
