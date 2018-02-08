@@ -21,6 +21,7 @@
 ## API 文档
 
 * [global](global.md)
+* [exception](exception.md)
 * [number](api-number.md)
 * [boolean](api-boolean.md)
 * [char](api-char.md)
