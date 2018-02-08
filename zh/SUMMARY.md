@@ -24,6 +24,7 @@
 * [exception](exception.md)
 * [iostream](iostream.md)
 * [system](system.md)
+* [runtime](runtime.md)
 * [number](api-number.md)
 * [boolean](api-boolean.md)
 * [char](api-char.md)
