@@ -34,5 +34,6 @@
 * [list](api-list.md)
 * [pair](api-pair.md)
 * [hash\_map](api-hashmap.md)
+* [math](math.md)
 * [streams](api-streams.md)
 
