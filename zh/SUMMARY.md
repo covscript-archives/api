@@ -4,10 +4,6 @@
 
 * [前言](README.md)
 * [概述](overview.md)
-* [regex](regex.md)
-* [darwin](darwin.md)
-* [sqlite](sqlite.md)
-* [network](network.md)
 
 ## 语法
 
@@ -39,5 +35,8 @@
 * [pair](api-pair.md)
 * [hash\_map](api-hashmap.md)
 * [math](math.md)
+* [regex](regex.md)
+* [darwin](darwin.md)
+* [sqlite](sqlite.md)
+* [network](network.md)
 * [streams](api-streams.md)
-
