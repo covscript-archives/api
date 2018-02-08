@@ -1,10 +1,12 @@
 # Summary
 
 ## 目录
+
 * [前言](README.md)
 * [概述](overview.md)
 
 ## 语法
+
 * [预处理指令](grammar-preprocessor.md)
 * [包和引入包](grammar-package.md)
 * [变量](grammar-var.md)
@@ -17,6 +19,8 @@
 * [异常处理](grammar-exception.md)
 
 ## API 文档
+
+* [global](global.md)
 * [number](api-number.md)
 * [boolean](api-boolean.md)
 * [char](api-char.md)
@@ -25,5 +29,6 @@
 * [array](api-array.md)
 * [list](api-list.md)
 * [pair](api-pair.md)
-* [hash_map](api-hashmap.md)
+* [hash\_map](api-hashmap.md)
 * [streams](api-streams.md)
+
