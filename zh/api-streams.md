@@ -104,7 +104,7 @@
   13
   ```
 
-#### cs::streams reduce\(identity, accumulator\)
+#### var reduce\(identity, accumulator\)
 
 * 对流中每一个元素执行一次`accumulator`，并将最终结果返回
 
